@@ -2,7 +2,7 @@
 
 ## Task Manager
 
-* A program for a small business that can help it to manage tasks assigned to each member of the team.
+* A program for a small business that can help it manage tasks assigned to each member of the team.
 * This program works with two text files, user.txt and tasks.txt.
 * tasks.txt stores a list of all the tasks that the team is working on.
 * user.txt stores the username and password for each user that has permission to use the program.
